@@ -85,7 +85,13 @@ This function takes board as an argument and does a full board check and is used
 ```
 This function is used to ask the players if they are interested to play again after the completion of a game. If yes then it starts the game from the beginning.
 
+### Screenshots
 
+![ss1](https://user-images.githubusercontent.com/90572543/133934351-2d41fafd-cd27-4f2a-9338-2c0098ab2a4f.PNG)
+
+![ss2](https://user-images.githubusercontent.com/90572543/133934360-9557facd-33a2-458b-81b7-6c91b8777253.PNG)
+
+![ss3](https://user-images.githubusercontent.com/90572543/133934372-aea2be67-fea3-4b34-96b7-128e94750e5f.PNG)
 
 ### Conclusion
 
