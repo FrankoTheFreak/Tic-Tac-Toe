@@ -87,11 +87,17 @@ This function is used to ask the players if they are interested to play again af
 
 ### Screenshots
 
-![ss1](https://user-images.githubusercontent.com/90572543/133934351-2d41fafd-cd27-4f2a-9338-2c0098ab2a4f.PNG)
+![ss1](https://user-images.githubusercontent.com/90572543/134028654-3eae7503-fe70-4870-817d-7a926d6897a3.PNG)
 
-![ss2](https://user-images.githubusercontent.com/90572543/133934360-9557facd-33a2-458b-81b7-6c91b8777253.PNG)
+![ss2](https://user-images.githubusercontent.com/90572543/134028690-98178ebd-24ed-447d-87c7-e39e4df1da52.PNG)
 
-![ss3](https://user-images.githubusercontent.com/90572543/133934372-aea2be67-fea3-4b34-96b7-128e94750e5f.PNG)
+![ss3](https://user-images.githubusercontent.com/90572543/134028730-8426156c-2d26-4c43-99a2-0180a3d4bda3.PNG)
+
+![ss4](https://user-images.githubusercontent.com/90572543/134028778-ac591218-b17e-453b-9320-591708dfa8d8.PNG)
+
+![ss5](https://user-images.githubusercontent.com/90572543/134028816-c342304d-0ce4-46d1-b972-60c730efa079.PNG)
+
+![ss6](https://user-images.githubusercontent.com/90572543/134028841-5487d40d-9ebb-4b88-b3b5-c0c399cbdf3d.PNG)
 
 ### Conclusion
 
